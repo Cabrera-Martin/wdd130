@@ -28,10 +28,12 @@ main img {
   box-shadow: 0 0 30px gray;
 }
 
-p { padding: 0;}
+img { padding: 0;}
 
 footer {
   margin-top: 1em;
   border-top: 1px solid #000;
   text-align: center;
 }
+
+How wide in pixels is an element where the content is 100 pixels, the border is defined to be 1 pixel all around, and the padding and margin are set to be 10 pixels all around?

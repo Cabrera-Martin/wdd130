@@ -1,19 +1,32 @@
-main {
-  max-width: 500px;
+nav {
+  background-color: steelblue;
+  padding: 10px;
+}
+h1
+{
+  color: steelblue;
 }
 
+p {
+  padding: 10px;
+}
+nav a {
+  color: white;
+  display: block;
+  padding: 20px;
+}
 body {
     background-color: #aad1e0;
   }
 
-aside {
-  margin: 1em;
-  border: 3px solid rgba(0, 0, 0, 0.2); 
-  padding: 1em;
-  background-color: #8ec8df;
-  color: #333;
-  text-align: center;
-}
+  aside {    
+    margin: 1em;
+    border: 3px solid rgba(0, 0, 0, 0.2); 
+    padding: 1em;
+    background-color: #8ec8df;
+    color: #333;
+    text-align: center;
+  }
 
 aside img {
   width: 200px;

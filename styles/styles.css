@@ -1,16 +1,14 @@
+main {
+  max-width: 500px;
+}
+
 body {
     background-color: #aad1e0;
   }
 
-  /*  
-main {
-  max-width: 840px;  
-}
-*/
-
 aside {
   margin: 1em;
-  border: 3px solid rgba(0, 0, 0, 0.2); /* 1️⃣ */
+  border: 3px solid rgba(0, 0, 0, 0.2); 
   padding: 1em;
   background-color: #8ec8df;
   color: #333;
@@ -20,6 +18,7 @@ aside {
 aside img {
   width: 200px;
   height: auto;
+  box-shadow: 0 0 30px gray;
 }
 
 main img {
